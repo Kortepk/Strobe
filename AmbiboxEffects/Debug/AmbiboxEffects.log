@@ -1,0 +1,16 @@
+﻿  AmbiboxEffects.cpp
+  LEDWindow.cpp
+A:\0\AmbiboxEffects\LEDWindow.cpp(109,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+A:\0\AmbiboxEffects\LEDWindow.cpp(243,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  PeacockSettingsDlg.cpp
+A:\0\AmbiboxEffects\PeacockSettingsDlg.cpp(161,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+A:\0\AmbiboxEffects\PeacockSettingsDlg.cpp(358,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+A:\0\AmbiboxEffects\PeacockSettingsDlg.cpp(358,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+A:\0\AmbiboxEffects\PeacockSettingsDlg.cpp(451,7): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+A:\0\AmbiboxEffects\PeacockSettingsDlg.cpp(518,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+A:\0\AmbiboxEffects\PeacockSettingsDlg.cpp(557,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+A:\0\AmbiboxEffects\PeacockSettingsDlg.cpp(597,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+A:\0\AmbiboxEffects\PeacockSettingsDlg.cpp(663,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  SIR_Plugins.cpp
+  Создание кода...
+  AmbiboxEffects.vcxproj -> A:\0\Debug\AmbiboxEffects.dll
