@@ -23,7 +23,6 @@ protected:
 
 	afx_msg UINT OnPowerBroadcast( UINT nPowerEvent, LPARAM nEventData );
 	afx_msg void OnTimer( UINT_PTR nIDEvent );
-	void LEDWindow::GetRainbow(int x);
 
 public:
 	void Load( BACKLIGHT_PLUGIN_SETTINGS & bs );
@@ -33,11 +32,12 @@ public:
 	void StopAnimation();
 
 	void EditSettings();
+	void GetRainbow(int x);
 
 private:
 	BACKLIGHT_PLUGIN_SETTINGS _backlightSettings;
+	
 	PluginSettings _pluginSettings;
-
 	std::vector<LED> _leds;
 	std::vector<float> _ledsHue;
 

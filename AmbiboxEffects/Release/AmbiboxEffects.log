@@ -1,0 +1,40 @@
+﻿cl : командная строка  warning D9030: "/Yc" несовместим с многопроцессорной обработкой; ключ /MP игнорируется
+  AmbiboxEffects.cpp
+  LEDWindow.cpp
+A:\0\strobe\AmbiboxEffects\LEDWindow.cpp(109,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\LEDWindow.cpp(201,27): warning C4244: =: преобразование "int" в "BYTE", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\LEDWindow.cpp(206,29): warning C4244: =: преобразование "int" в "BYTE", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\LEDWindow.cpp(214,26): warning C4244: =: преобразование "int" в "BYTE", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\LEDWindow.cpp(219,31): warning C4244: =: преобразование "int" в "BYTE", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\LEDWindow.cpp(224,25): warning C4244: =: преобразование "int" в "BYTE", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\LEDWindow.cpp(232,30): warning C4244: =: преобразование "int" в "BYTE", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\LEDWindow.cpp(243,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  pch.cpp
+  PeacockSettingsDlg.cpp
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(161,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(221,6): warning C4189: clientHeight: локальная переменная инициализирована, но не использована
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(220,6): warning C4189: clientWidth: локальная переменная инициализирована, но не использована
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(225,9): warning C4189: pWnd: локальная переменная инициализирована, но не использована
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(282,77): warning C4100: blue: неиспользованный формальный параметр
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(282,65): warning C4100: green: неиспользованный формальный параметр
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(282,55): warning C4100: red: неиспользованный формальный параметр
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(358,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(358,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(451,7): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(518,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(557,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(597,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(597,37): warning C4458: объявление "attack" скрывает член класса
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.h(32,35): message : см. объявление "PeacockSettingsDlg::attack"
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(663,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(663,37): warning C4458: объявление "attack" скрывает член класса
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.h(32,35): message : см. объявление "PeacockSettingsDlg::attack"
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(709,60): warning C4100: pNMHDR: неиспользованный формальный параметр
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(719,60): warning C4100: pNMHDR: неиспользованный формальный параметр
+A:\0\strobe\AmbiboxEffects\PeacockSettingsDlg.cpp(728,60): warning C4100: pNMHDR: неиспользованный формальный параметр
+  SIR_Plugins.cpp
+A:\0\strobe\AmbiboxEffects\SIR_Plugins.cpp(68,61): warning C4100: hWndParent: неиспользованный формальный параметр
+     Создается библиотека A:\0\strobe\Release\release.lib и объект A:\0\strobe\Release\release.exp
+  Создание кода
+  Создание кода завершено
+  AmbiboxEffects.vcxproj -> A:\0\strobe\Release\release.dll

@@ -10,17 +10,20 @@ extern "C"
 	//---------------------------------------------------------------------------------------------------------------------------
 	__declspec(dllexport) wchar_t* __stdcall SIR_GetName(void)
 	{
-		return L"Стробоскоп";
+		static wchar_t t[] = L"Стробоскоп";
+		return t;
 	}
 
 	__declspec(dllexport) wchar_t* __stdcall SIR_GetVersion(void)
 	{
-		return L"1.0.0";
+		static wchar_t t[] = L"1.0.0";
+		return t;
 	}
 
 	__declspec(dllexport) wchar_t* __stdcall SIR_GetDescription(void)
 	{
-		return L"Эффект стробоскопа\nОтдельная благодарность:\n\rmaaGames\n\rhttps://vk.com/maagames";
+		static wchar_t t[] = L"Эффект стробоскопа\nОтдельная благодарность:\n\rmaaGames\n\rhttps://vk.com/maagames";
+		return t;
 	}
 
 	__declspec(dllexport) int __stdcall SIR_Init( void )
